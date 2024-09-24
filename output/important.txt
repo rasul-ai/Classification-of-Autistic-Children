@@ -1,0 +1,1 @@
+Predicted image with class will save here.
